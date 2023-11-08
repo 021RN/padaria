@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+main{
+    min-width: 100px;
+    max-width: 600px;
+    margin: auto;
+    margin-bottom: 25px;
+    padding: 25px;
+    background-color: var(--cor2 );
+    box-shadow: 5px 5px 10px black;
+    border-radius: 0px 0px 10px 10px;}
+    main p {
+        margin: 25px 0px 25px 0px;
+        text-align: center;
+        text-indent: 35px;
+        font-size: 18px;
+        line-height: 36px;}
+        body{
+            background-color: #ffc07e;
+        }
